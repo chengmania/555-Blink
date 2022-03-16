@@ -1,0 +1,24 @@
+Steps
+
+Collect all the required components and place the 555 timer IC on the breadboard.
+
+Connect pin 1 of a 555 timer IC to the ground. You can find the pin structure of a 555 timer IC in the circuit diagram shown above.
+
+The longer lead of a polarized capacitor is the positive and the shorter lead is negative. Connect pin 2 to the positive end of a capacitor. 
+Connect the negative lead of the capacitor to the ground of the battery.
+
+Now short the pin 2 to pin 6 of the 555 timer IC.
+
+Connect the output pin 3 with the positive lead of the LED using a 1kΩ resistor. The negative lead of LED needs to be connected with the ground.
+
+Connect pin 4 to the positive end of the battery.
+
+Pin 5 does not connect to anything.
+
+Connect pin 6 to pin 7 using a 100kΩ resistor.
+
+Connect pin 7 to the positive end of the battery using a 1kΩ resistor.
+
+Connect pin 8 to the positive end of the battery.
+
+Finally, connect the battery leads with the breadboard to start the power supply in the circuit.
